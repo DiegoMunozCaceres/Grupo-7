@@ -6,10 +6,10 @@
  }   
 
 //DATOS DE CONEXION A MYSQLI_CONNECT
-$db_host = "146.83.194.142";
-$db_user = "E7software";
-$db_pass = "E7software1128";
-$db_name = "E7software_bd";
+$db_host = "34.176.245.209";
+$db_user = "root";
+$db_pass = "4.J5i{QAdyPqlAS8";
+$db_name = "diego";
 
 /*
 // SERVIDOR
